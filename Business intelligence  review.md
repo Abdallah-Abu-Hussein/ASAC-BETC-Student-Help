@@ -1,6 +1,6 @@
 # Business Intelligence 
 
-![](./Pasted%20image%2020220517205355.png)
+![](./images/Pasted%20image%2020220517205355.png)
 
 ### What's it ?
 
